@@ -1,0 +1,1 @@
+{"uuid":"53ca1c9a-3089-46b1-b9ab-e11de68c450e","name":"TestGroup","start":1557072513320,"stop":1557072528019,"children":["33a1e22d-a8fc-4f53-9eca-8e09a1ccfdb0"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","start":1557072513363,"stop":1557072519542}]}
