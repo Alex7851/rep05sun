@@ -19,9 +19,15 @@
                     <systemProperties>
                         <property>
                             <name>allure.results.directory</name>
-                            <value>C:\Users\andan\IdeaProjects\TestGroup\allure-results</value>
+                            <value>C:\Users\andan\IdeaProjects\TestGroup\target\allure-results</value>
                         </property>
                     </systemProperties>
+                    <systemPropertyVariables>
+                        <allure.results.directory>${project.build.directory}/allure-results</allure.results.directory>
+                    </systemPropertyVariables>
+                    <properties>
+                        <allure.results.directory>target/allure-results</allure.results.directory>
+                    </properties>
                 </configuration>
                 <dependencies>
                     <dependency>
@@ -38,9 +44,62 @@
                 <configuration>
                     <reportVersion>2.7.0</reportVersion>
                 </configuration>
+
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>8</source>
+                    <target>8</target>
+                </configuration>
+            </plugin>
+
+        </plugins>
+
+    </build>
+    <reporting>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>2.0.2</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                    <encoding>UTF-8</encoding>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-checkstyle-plugin</artifactId>
+                <version>2.17</version>
+                <configuration>
+                    <suppressionsLocation>suppressions.xml</suppressionsLocation>
+                </configuration>
+                <reportSets>
+                    <reportSet>
+                        <reports>
+                            <report>checkstyle</report>
+                        </reports>
+                    </reportSet>
+                </reportSets>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-pmd-plugin</artifactId>
+                <version>3.8</version>
+            </plugin>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>findbugs-maven-plugin</artifactId>
+                <version>3.0.4</version>
+                <configuration>
+                    <xmlOutput>true</xmlOutput>
+                </configuration>
             </plugin>
         </plugins>
-    </build>
+    </reporting>
 
     <properties>
         <maven-surefire-plugin.version>2.20.1</maven-surefire-plugin.version>
@@ -69,6 +128,11 @@
     <artifactId>jaxb-api</artifactId>
     <version>2.3.0</version>
 
+    </dependency>
+    <dependency>
+        <groupId>com.opencsv</groupId>
+        <artifactId>opencsv</artifactId>
+        <version>4.1</version>
     </dependency>
 </dependencies>
 

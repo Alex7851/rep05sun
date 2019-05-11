@@ -1,7 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30ea189e-9e86-4640-a6b2-76beba21a430" name="Default Changelist" comment="" />
+    <list default="true" id="30ea189e-9e86-4640-a6b2-76beba21a430" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/YandexPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0275a263-8ff7-42ba-b81e-703041eecbf1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/07fed835-6507-4034-b5b7-76b2f8aec0ac-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/12a5c525-4fac-4ee2-9821-4d3d9067dc61-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1aa909ae-fcd6-4210-89b1-5bf6c68f5fb8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/3131215d-b175-417a-bc95-12392deb1f2f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/33a1e22d-a8fc-4f53-9eca-8e09a1ccfdb0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/513f5304-af1e-43b6-9e29-3ec71ba25c86-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/53ca1c9a-3089-46b1-b9ab-e11de68c450e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/62ac3d49-1312-4b2b-8856-844b3a1fa27a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a716aa0b-fdef-4b38-abfe-09491ba5b929-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ab92a25e-b4a4-422d-9b5e-987255083231-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b88603e0-6f67-4542-9725-619b56ff4c0e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b96b001a-daeb-4b31-b2be-e4d3fa1d1f1c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c45b59cb-dff2-48f3-868e-10126f28a7dc-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/cc0658f0-333d-4450-97bf-31fd29417df2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/cf381c76-b69b-4160-815b-090e71284a1c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/SendPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/SendPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/InboxPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/InboxPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/RegistrationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/RegistrationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/SendPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/SendPage.class" afterDir="false" />
+    </list>
     <list id="fb7bd5fc-e546-4805-8cf2-2372c88efc75" name="Revert &quot;hgf&quot;" comment="Revert &quot;hgf&quot;&#10;&#10;This reverts commit 12f72936" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,8 +88,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+            <state relative-caret-position="320">
+              <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -32,8 +97,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/YandexPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,10 +118,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/SendPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="306">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
-                <element signature="e#599#600#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,8 +130,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/InboxPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="85">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -62,8 +139,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="340">
+              <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,6 +160,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>2000</find>
+      <find>target\allure-results</find>
+      <find>allure-results</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -98,10 +180,11 @@
         <option value="$PROJECT_DIR$/src/test/java/pages/sendPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/SendingPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/InboxPage2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/SendPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/InboxPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/YandexPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/SendPage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
@@ -141,7 +224,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1260" />
@@ -167,6 +250,40 @@
               <item name="TestGroup" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TestGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -178,11 +295,21 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\andan\IdeaProjects\TestGroup\src\test\java\resources" />
+      <recent name="C:\Users\andan\IdeaProjects\TestGroup\src\main\resources" />
+      <recent name="C:\Users\andan\IdeaProjects\TestGroup\src" />
+      <recent name="C:\Users\andan\IdeaProjects\TestGroup\src\test\java\pages" />
+      <recent name="C:\Users\andan\IdeaProjects\TestGroup\src\test\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -278,6 +405,17 @@
       <workItem from="1557067394759" duration="295000" />
       <workItem from="1557067712723" duration="5313000" />
       <workItem from="1557075018505" duration="589000" />
+      <workItem from="1557075866663" duration="1392000" />
+      <workItem from="1557088704407" duration="54000" />
+      <workItem from="1557174533542" duration="7000" />
+      <workItem from="1557321438986" duration="3038000" />
+      <workItem from="1557379764698" duration="2295000" />
+      <workItem from="1557382362896" duration="14814000" />
+      <workItem from="1557462498951" duration="491000" />
+      <workItem from="1557463507538" duration="72000" />
+      <workItem from="1557467085849" duration="302000" />
+      <workItem from="1557569012879" duration="9656000" />
+      <workItem from="1557583688950" duration="1680000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1557045470734</created>
@@ -332,41 +470,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestClass - 2019.05.05 at 18h 22m 49s.xml">
+    <history-entry file="TestClass - 2019.05.11 at 16h 03m 41s.xml">
       <configuration name="TestClass" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.05 at 18h 26m 19s.xml">
+    <history-entry file="TestClass - 2019.05.11 at 16h 09m 26s.xml">
       <configuration name="TestClass" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.05 at 18h 31m 53s.xml">
+    <history-entry file="TestClass - 2019.05.11 at 16h 11m 34s.xml">
       <configuration name="TestClass" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.05 at 18h 37m 34s.xml">
+    <history-entry file="TestClass - 2019.05.11 at 16h 13m 09s.xml">
       <configuration name="TestClass" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.05 at 18h 47m 46s.xml">
+    <history-entry file="TestClass - 2019.05.11 at 17h 07m 12s.xml">
       <configuration name="TestClass" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.05 at 19h 00m 08s.xml">
+    <history-entry file="TestClass - 2019.05.11 at 17h 09m 48s.xml">
       <configuration name="TestClass" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.05 at 19h 04m 48s.xml">
+    <history-entry file="TestClass - 2019.05.11 at 17h 19m 50s.xml">
       <configuration name="TestClass" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.05 at 19h 07m 33s.xml">
+    <history-entry file="TestClass - 2019.05.11 at 17h 24m 05s.xml">
       <configuration name="TestClass" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.05 at 19h 08m 48s.xml">
+    <history-entry file="TestClass - 2019.05.11 at 17h 26m 57s.xml">
       <configuration name="TestClass" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.05 at 19h 43m 06s.xml">
+    <history-entry file="TestClass - 2019.05.11 at 17h 35m 51s.xml">
       <configuration name="TestClass" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54863000" />
+    <option name="totallyTimeSpent" value="88664000" />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -377,8 +515,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.3341424" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.40048543" />
       <window_info id="Structure" order="1" sideWeight="0.5008606" side_tool="true" weight="0.2985437" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -387,17 +526,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298731" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4935275" weight="0.3298731" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49029127" visible="true" weight="0.3298731" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49919093" weight="0.3298731" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49919093" weight="0.11072665" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49676377" visible="true" weight="0.4959631" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49433658" weight="0.4959631" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49919093" weight="0.3298731" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50323623" side_tool="true" visible="true" weight="0.4959631" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49676377" weight="0.3298731" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50970876" side_tool="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4959547" weight="0.3298731" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -480,18 +619,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/test-classes/pages/InboxPage.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/test-classes/TestClass.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-279">
-          <folding>
-            <element signature="e#0#1422#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/pages/InboxPage.class" />
+    <entry file="file://$PROJECT_DIR$/target/test-classes/TestClass.class" />
     <entry file="file://$USER_HOME$/.IntelliJIdea2019.1/system/temp-testng-customsuite.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -499,43 +628,129 @@
     <entry file="file://$PROJECT_DIR$/allure-results/98aaa41b-fcb1-46e7-b1b1-158d5f7c9431-container.json" />
     <entry file="file://$PROJECT_DIR$/allure-results/6c8d1253-3aa6-4152-9d85-e8423e524adb-container.json" />
     <entry file="file://$PROJECT_DIR$/allure-results/598d616a-2925-4f87-bf88-88c4acf3e400-result.json" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/YandexPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="221">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/SendPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="306">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
-            <element signature="e#599#600#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/InboxPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="85">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="340">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TestGroup</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

@@ -2,6 +2,8 @@ package pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
+import static pages.RegistrationPage.var1;
+
 public class SendPage {
 
     WebDriver driver;
@@ -22,7 +24,7 @@ public class SendPage {
         String strTheme="Количество писем (данные от тестировщика)";
         String strText="Количество писем полученных с адреса alex7851@yandex.ru составляет: " + countMails;
 
-        recepientField.findElement(driver).sendKeys("alex7851@yandex.ru");
+        recepientField.findElement(driver).sendKeys(var1);
         themeField.findElement(driver).click();
         themeField.findElement(driver).sendKeys(strTheme);
         mainTextField.findElement(driver).sendKeys(strText);
