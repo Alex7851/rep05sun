@@ -1,1 +1,0 @@
-{"uuid":"eb7bb9ee-4259-480e-a9c3-44e1037499eb","name":"TestGroup","start":1557584374349,"stop":1557584390366,"children":["7a4972b4-667c-44da-85ab-5a57c44a16e9"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","start":1557584374380,"stop":1557584379740}]}

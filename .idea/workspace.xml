@@ -2,8 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ea189e-9e86-4640-a6b2-76beba21a430" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/suits/testmail.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/allure.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/allure.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0328e69e-bfeb-4368-904d-f048d302b033-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/49bb8ddd-6f9f-49f3-9839-4a2471e852b2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/630a5d10-6a60-45cb-aeae-a25eb03897f3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/65410f61-ef4c-4760-8094-f4cad415867d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7a4972b4-667c-44da-85ab-5a57c44a16e9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7a6e93a2-0193-43d0-92e2-ec3bed13e775-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/87d98857-1591-4520-a7b2-0774439a7024-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/896dd51a-ef99-4d0c-8624-cd38cb531745-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/951572f1-4aea-4cf7-bb2b-d2819c72b355-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/97f1217b-ee7f-4fb6-b135-0a2ed047101d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9a7fa1e9-3038-42c0-a516-f4582ee47e70-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9fcdb6ee-539a-4a43-a490-90c2012e09e0-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a1aacc85-2d25-4c6d-9903-cabd4344dc70-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e4dd4185-0a74-48b3-8ff0-82c07f37e056-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/eb7bb9ee-4259-480e-a9c3-44e1037499eb-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f9fdb810-7222-4a44-a24f-81791400c9ff-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/InboxPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/InboxPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/SendPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/SendPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/2e6fa865-9218-4081-8519-8766f0646d3f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/32dc2780-32a8-45d8-b732-c77d0725852d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/3a7d3f86-9c8b-4b2a-93cb-688cc6c7390e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/64aa510d-8d7f-46da-834e-a54df70f0af3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/826b6a3b-0a79-4f99-baa2-07617db80c03-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/a77e39ef-9a60-47e1-93b8-8e17d541b0d0-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/allure.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/bf3af486-a320-4b90-9777-78f31d3ee0b4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/d04adb44-5da8-4bed-b851-eabd0a8f12ee-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/executor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/InboxPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/InboxPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/RegistrationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/RegistrationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/SendPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/SendPage.class" afterDir="false" />
     </list>
     <list id="fb7bd5fc-e546-4805-8cf2-2372c88efc75" name="Revert &quot;hgf&quot;" comment="Revert &quot;hgf&quot;&#10;&#10;This reverts commit 12f72936" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,11 +62,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="106" column="40" selection-start-line="106" selection-start-column="40" selection-end-line="106" selection-end-column="40" />
+            <state relative-caret-position="2550">
+              <caret line="150" selection-start-line="150" selection-end-line="150" />
             </state>
           </provider>
         </entry>
@@ -35,8 +74,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="833">
+              <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1717#1718#0" expanded="true" />
+                <element signature="e#1746#1747#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SetupTestDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,8 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/YandexPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="306">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,11 +112,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/SendPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" column="8" selection-start-line="10" selection-end-line="10" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -71,8 +121,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/InboxPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="31" />
+            <state relative-caret-position="493">
+              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,11 +133,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="221">
+              <caret line="25" column="29" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/suits/testmail.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -122,12 +184,14 @@
         <option value="$PROJECT_DIR$/src/test/java/pages/sendPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/SendingPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/InboxPage2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/InboxPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/YandexPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/SendPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SetupTestDriver.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/SendPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/InboxPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/suits/testmail.xml" />
       </list>
     </option>
   </component>
@@ -196,40 +260,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TestGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestGroup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,7 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestClass">
+  <component name="RunManager" selected="TestNG.C:/Users/andan/IdeaProjects/TestGroup/src/test/java/suits/testmail.xml">
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -289,6 +325,16 @@
         </option>
       </MavenSettings>
       <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/andan/IdeaProjects/TestGroup/src/test/java/suits/testmail.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestGroup" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/suits/testmail.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="TestClass" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestGroup" />
@@ -313,6 +359,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/andan/IdeaProjects/TestGroup/src/test/java/suits/testmail.xml" />
         <item itemvalue="TestNG.TestClass" />
         <item itemvalue="TestNG.&lt;default&gt;" />
         <item itemvalue="TestNG.TestClass" />
@@ -359,7 +406,11 @@
       <workItem from="1557569012879" duration="9656000" />
       <workItem from="1557583688950" duration="3412000" />
       <workItem from="1557634323911" duration="3463000" />
-      <workItem from="1557739264664" duration="615000" />
+      <workItem from="1557739264664" duration="8902000" />
+      <workItem from="1557808031282" duration="6471000" />
+      <workItem from="1558082158725" duration="14565000" />
+      <workItem from="1558171896333" duration="6701000" />
+      <workItem from="1558180557434" duration="1690000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1557045470734</created>
@@ -414,39 +465,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestClass - 2019.05.11 at 16h 11m 34s.xml">
-      <configuration name="TestClass" configurationId="TestNG" />
+    <history-entry file="C__Users_andan_IdeaProjects_TestGroup_src_test_java_suits_testmail_xml - 2019.05.18 at 14h 07m 33s.xml">
+      <configuration name="C:/Users/andan/IdeaProjects/TestGroup/src/test/java/suits/testmail.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.11 at 16h 13m 09s.xml">
-      <configuration name="TestClass" configurationId="TestNG" />
+    <history-entry file="C__Users_andan_IdeaProjects_TestGroup_src_test_java_suits_testmail_xml - 2019.05.18 at 14h 18m 29s.xml">
+      <configuration name="C:/Users/andan/IdeaProjects/TestGroup/src/test/java/suits/testmail.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.11 at 17h 07m 12s.xml">
-      <configuration name="TestClass" configurationId="TestNG" />
+    <history-entry file="C__Users_andan_IdeaProjects_TestGroup_src_test_java_suits_testmail_xml - 2019.05.18 at 14h 27m 17s.xml">
+      <configuration name="C:/Users/andan/IdeaProjects/TestGroup/src/test/java/suits/testmail.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.11 at 17h 09m 48s.xml">
-      <configuration name="TestClass" configurationId="TestNG" />
+    <history-entry file="C__Users_andan_IdeaProjects_TestGroup_src_test_java_suits_testmail_xml - 2019.05.18 at 14h 30m 35s.xml">
+      <configuration name="C:/Users/andan/IdeaProjects/TestGroup/src/test/java/suits/testmail.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.11 at 17h 19m 50s.xml">
-      <configuration name="TestClass" configurationId="TestNG" />
+    <history-entry file="C__Users_andan_IdeaProjects_TestGroup_src_test_java_suits_testmail_xml - 2019.05.18 at 14h 33m 09s.xml">
+      <configuration name="C:/Users/andan/IdeaProjects/TestGroup/src/test/java/suits/testmail.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.11 at 17h 24m 05s.xml">
-      <configuration name="TestClass" configurationId="TestNG" />
+    <history-entry file="C__Users_andan_IdeaProjects_TestGroup_src_test_java_suits_testmail_xml - 2019.05.18 at 14h 38m 43s.xml">
+      <configuration name="C:/Users/andan/IdeaProjects/TestGroup/src/test/java/suits/testmail.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.11 at 17h 26m 57s.xml">
-      <configuration name="TestClass" configurationId="TestNG" />
+    <history-entry file="C__Users_andan_IdeaProjects_TestGroup_src_test_java_suits_testmail_xml - 2019.05.18 at 14h 49m 20s.xml">
+      <configuration name="C:/Users/andan/IdeaProjects/TestGroup/src/test/java/suits/testmail.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.11 at 17h 35m 51s.xml">
-      <configuration name="TestClass" configurationId="TestNG" />
+    <history-entry file="C__Users_andan_IdeaProjects_TestGroup_src_test_java_suits_testmail_xml - 2019.05.18 at 15h 02m 13s.xml">
+      <configuration name="C:/Users/andan/IdeaProjects/TestGroup/src/test/java/suits/testmail.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.11 at 17h 38m 27s.xml">
-      <configuration name="TestClass" configurationId="TestNG" />
+    <history-entry file="C__Users_andan_IdeaProjects_TestGroup_src_test_java_suits_testmail_xml - 2019.05.18 at 15h 03m 59s.xml">
+      <configuration name="C:/Users/andan/IdeaProjects/TestGroup/src/test/java/suits/testmail.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestClass - 2019.05.11 at 22h 57m 53s.xml">
-      <configuration name="TestClass" configurationId="TestNG" />
+    <history-entry file="C__Users_andan_IdeaProjects_TestGroup_src_test_java_suits_testmail_xml - 2019.05.18 at 15h 13m 08s.xml">
+      <configuration name="C:/Users/andan/IdeaProjects/TestGroup/src/test/java/suits/testmail.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94474000" />
+    <option name="totallyTimeSpent" value="132188000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -459,8 +510,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.41343042" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.22572815" />
       <window_info id="Structure" order="1" sideWeight="0.5008606" side_tool="true" weight="0.2985437" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -469,7 +521,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298731" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49029127" weight="0.3298731" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49029127" visible="true" weight="0.3298731" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -477,7 +529,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49433658" weight="0.25720876" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49919093" visible="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49919093" weight="0.3298731" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50970876" side_tool="true" weight="0.3298731" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4959547" weight="0.3298731" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -573,15 +625,27 @@
     <entry file="file://$PROJECT_DIR$/allure-results/598d616a-2925-4f87-bf88-88c4acf3e400-result.json" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="106" column="40" selection-start-line="106" selection-start-column="40" selection-end-line="106" selection-end-column="40" />
+        <state relative-caret-position="2550">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="833">
+          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1717#1718#0" expanded="true" />
+            <element signature="e#1746#1747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SetupTestDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -590,8 +654,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/YandexPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="306">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -600,28 +664,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/SendPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="8" selection-start-line="10" selection-end-line="10" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/InboxPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="31" />
+        <state relative-caret-position="493">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="221">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/suits/testmail.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
         </state>
       </provider>
     </entry>

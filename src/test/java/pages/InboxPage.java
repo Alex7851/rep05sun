@@ -1,7 +1,7 @@
 package pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-
+import static pages.RegistrationPage.mailAddr;
 public class InboxPage {
 
     public static int cntMails;
@@ -18,9 +18,14 @@ public class InboxPage {
     }
 
     public void countMails() {
-        driver.findElement(searchField).sendKeys("alex7851@yandex.ru");
+        driver.findElement(searchField).sendKeys(mailAddr);
         driver.findElement(enterIco).click();
-        driver.navigate().refresh();
+        String url = driver.getCurrentUrl();
+        url=url+"&fid=1";
+
+        driver.get(url);
+                driver.navigate().refresh();
+
         cntMails= driver.findElements(countMails).size();
         System.out.println("Количество писем " + cntMails);
         driver.findElement(inboxIndicator).click();

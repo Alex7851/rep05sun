@@ -3,6 +3,8 @@ import com.opencsv.CSVWriter;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.By;
 import com.opencsv.CSVReader;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.io.FileReader;
 import java.io.IOException;
@@ -21,7 +23,7 @@ public class RegistrationPage {
     By loginField = By.id("passp-field-login");
     By passwordField = By.id("passp-field-passwd");
     By buttonSubmit = new By.ByXPath("//button[@type='submit']");
-    public static String var1;
+    public static String mailAddr;
 
     public RegistrationPage(WebDriver driver) {
         this.driver = driver;
@@ -41,19 +43,25 @@ public class RegistrationPage {
         CSVReader reader = new CSVReader(new FileReader("data2.csv"), ',' , '"' , 1);
         List <String[]> allRows = reader.readAll();
 
-        String var2 = null;
+        String psswrd = null;
+        String login = null;
 
         int i=0;
 
         for(String[] row : allRows) {
-           if (i==0) var1 = row[0];
-            if (i==1) var2 = row[0];
+           if (i==0) login = row[0];
+            if (i==1) psswrd = row[0];
+            if (i==2) mailAddr = row[0];
+
             i++;
         }
 
-        driver.findElement(loginField).sendKeys(var1);
+
+        driver.findElement(loginField).sendKeys(login);
         driver.findElement(buttonSubmit).click();
-        driver.findElement(passwordField).sendKeys(var2);
+
+        new WebDriverWait(driver, 20).until(ExpectedConditions.elementToBeClickable(passwordField));
+        driver.findElement(passwordField).sendKeys(psswrd);
         driver.findElement(buttonSubmit).click();
     }
 }
