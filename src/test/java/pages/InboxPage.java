@@ -36,8 +36,4 @@ public class InboxPage {
         System.out.println("Количество писем " + cntMails);
         driver.findElement(inboxIndicator).click();
     }
-
-    public boolean checkInboxes() {
-        return driver.findElements(inboxIndicator).size() == 1;
-    }
 }

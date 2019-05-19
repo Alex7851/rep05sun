@@ -5,6 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.Capabilities;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
+
 import static pages.RegistrationPage.mailAddr;
 
 public class SendPage {
@@ -51,7 +52,4 @@ public class SendPage {
 
     }
 
-    public boolean checkSendForm() {
-        return driver.findElements(sendFieldIndicator).size() == 1;
-    }
 }
