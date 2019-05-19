@@ -1,4 +1,5 @@
 import io.qameta.allure.Step;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.openqa.selenium.WebDriver;
@@ -38,8 +39,9 @@ public class TestClass {
     InboxPage inboxPage;
     SendPage sendPage;
 
-    @Test
 
+
+    @Test
     public void CheckSomething() throws IOException {
 
         yandexPage = new YandexPage(driver);

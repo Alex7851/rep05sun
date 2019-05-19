@@ -1,5 +1,6 @@
 package pages;
 import com.opencsv.CSVWriter;
+import io.qameta.allure.Step;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.By;
 import com.opencsv.CSVReader;
@@ -28,7 +29,7 @@ public class RegistrationPage {
     public RegistrationPage(WebDriver driver) {
         this.driver = driver;
     }
-
+    @Step("Прохождение пунктов регистрации")
     public void registerUser() throws IOException {
 
 //        String csv = "data2.csv";

@@ -1,4 +1,5 @@
 package pages;
+import io.qameta.allure.Step;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import static pages.RegistrationPage.mailAddr;
@@ -16,6 +17,7 @@ public class InboxPage {
     public InboxPage(WebDriver driver) {
         this.driver = driver;
     }
+    @Step("Определение количества писем с адреса alex7851@yandex.ru")
 
     public void countMails() {
         driver.findElement(searchField).sendKeys(mailAddr);

@@ -12,7 +12,6 @@
             <class name="TestClass"/>
         </classes>
     </test>
-
     <test name="Tests on Chrome" preserve-order="true" group-by-instances="true">
             <parameter name="browser" value="chrome"/>
             <classes>

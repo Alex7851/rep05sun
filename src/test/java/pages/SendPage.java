@@ -1,4 +1,5 @@
 package pages;
+import io.qameta.allure.Step;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Capabilities;
 import org.openqa.selenium.JavascriptExecutor;
@@ -28,6 +29,7 @@ public class SendPage {
         this.driver = driver;
     }
 
+    @Step("Отправка письма с данными")
 
     public void sendMail() {
 
